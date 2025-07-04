@@ -251,10 +251,10 @@ You’re welcome to open a Pull Request or create an Issue — every contributio
   - [OWASP Code Pulse](https://owasp.org/www-project-code-pulse/)
 
 ## Books
-- The art of unit testing - Roy Osherov
-- TDD by Example - Kent Beck
-- XUnit Test Patterns by Gerard Meszaros
-
+- [The art of unit testing - Roy Osherov](https://www.amazon.nl/-/en/JavaScript/dp/1617297488)
+- [TDD by Example - Kent Beck](https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530)
+- [XUnit Test Patterns by Gerard Meszaros](http://xunitpatterns.com/)
+- [The Art of Application Performance Testing, 2nd Edition](https://www.oreilly.com/library/view/the-art-of/9781491900536/)
 <hr>
 
 ## Contribute
