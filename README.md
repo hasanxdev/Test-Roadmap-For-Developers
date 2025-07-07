@@ -1,6 +1,6 @@
 
 # General roadmap for developers to learn testing
-###### Version 1.0.4
+###### Version 1.1.0
 
 This roadmap helps you learn testing concepts in a structured and principled way.  
 It also allows you to evaluate yourself — to see what you're already familiar with and where you might need improvement.
@@ -207,12 +207,14 @@ You’re welcome to open a Pull Request or create an Issue — every contributio
   - [FakerPHP](https://fakerphp.org/)
 
 
-## Test Coverage
-- CLI
-  - [dotnet-coverage](https://learn.microsoft.com/en-us/dotnet/core/additional-tools/dotnet-coverage)
-- Visual
-  - IDE Tools
-  - [dotCover](https://www.jetbrains.com/dotcover/)
+## Testing Effectiveness Metrics
+- Test Coverage
+  - CLI
+    - [dotnet-coverage](https://learn.microsoft.com/en-us/dotnet/core/additional-tools/dotnet-coverage)
+  - Visual
+    - IDE Tools
+    - [dotCover](https://www.jetbrains.com/dotcover/)
+- [Mutation Testing](https://stryker-mutator.io/)
 
 ## [Test smells](http://xunitpatterns.com/Test%20Smells.html)
 - Test Logic
